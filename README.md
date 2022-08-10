@@ -9,7 +9,7 @@ I currently work as a Front-end developer but I got projects to work as Fullstac
 * I'm into to: TDD and Clean Architecture.
 * I love to: play games, meet friends and eat pizza.
 * I'm Nerd (You don't say!).
-* I'm the founder of the Nuancias, a publishing website. 
+* I'm the founder of the Nuancias, a new publishing website. 
 
 #### Connect with me:
 <div>
