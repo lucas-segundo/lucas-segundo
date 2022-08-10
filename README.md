@@ -1,4 +1,6 @@
-<img src="https://tenor.com/view/hello-there-general-kenobi-gif-18841535.gif" />
+<figure>
+  <img src="https://tenor.com/view/hello-there-general-kenobi-gif-18841535.gif" />
+</figure>
 
 ### Hi, I'm Lucas and welcome to my profile!
 
