@@ -2,11 +2,12 @@
 
 ### Hi, I'm Lucas and welcome to my profile!
 
-I currently work as Front-end developer, but I got projects to work as Fullstack and Data Analytics. 
+I currently work as a Front-end developer but I got projects to work as Fullstack and Data Analytics. 
 
 * I'm into to: TDD and Clean Architecture.
 * I love to: play games, meet friends and eat pizza.
 * I'm Nerd (You don't say!).
+* I'm the founder of the Nuancias, a publishing website. 
 
 #### Connect with me:
 <div>
@@ -38,4 +39,9 @@ I currently work as Front-end developer, but I got projects to work as Fullstack
      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
      <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
      <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
+</div>
+
+#### I'm thinking of learning:
+<div>
+     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
