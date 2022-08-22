@@ -45,7 +45,7 @@ I currently work as a Front-end developer but I got projects to work as Fullstac
      <img src="https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=white" />
 </div>
 
-#### I'm thinking of learning:
+#### Currently learning:
 <div>
      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
