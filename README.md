@@ -6,7 +6,7 @@
 
 I work as developer with experience with frontend and backend development. I love the javascript universe which I currently build my project with it. For my most systems, I prefer using typescript and TDD to create confident and scalable solutions. Check out some public projects with you want to dive into the code. 
 
-Even thought the majority of my repositories are private, for company policies reasons, you can check how I code with the **Nuancias** repository, which was a big public project that I've done learning Clean Architecture. I hope you enjoy it.
+Even thought the majority of my repositories are private, for company policies reasons, you can check how I code with the **Nuancias** repository, which was a big public project that I've done while I was learning Clean Architecture. I hope you enjoy it.
 
 * I love: TDD and Clean Architecture.
 * Currently learning: React Native.
