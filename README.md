@@ -4,12 +4,12 @@
 
 ### Hi, I'm Lucas and welcome to my profile!
 
-I currently work as a Front-end developer but I got projects to work as Fullstack and Data Analytics. 
+I work as developer with experience with frontend and backend development. I love the javascript universe which I currently build my project with it. For my most systems, I prefer using typescript and TDD to create confident and scalable solutions. Check out some public projects with you want to dive into the code. 
 
-* I'm into to: TDD and Clean Architecture.
-* I love to: play games, meet friends and eat pizza.
-* I'm Nerd (You don't say!).
-* I'm the founder of the Nuancias, a new publishing website. 
+Even thought the majority of my repositories are private, for company policies reasons, you can check how I code with the **Nuancias** repository, which was a big public project that I've done learning Clean Architecture. I hope you enjoy it.
+
+* I love: TDD and Clean Architecture.
+* Currently learning: React Native.
 
 #### Connect with me:
 <div>
@@ -45,4 +45,4 @@ I currently work as a Front-end developer but I got projects to work as Fullstac
      <img src="https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=Lighthouse&logoColor=white" />
 </div>
 
-##### Pátria amada, Brasil! 
+##### I have a dream. 
