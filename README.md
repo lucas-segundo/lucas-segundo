@@ -19,9 +19,6 @@ Even thought the majority of my repositories are private, for company policies r
 <a href="https://www.linkedin.com/in/engplucasfernandes/" >
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/lucassegundof/" >
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
 </div>
 
 #### Languages and tools that I love to use:
