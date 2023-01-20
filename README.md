@@ -2,7 +2,7 @@
   <img src="https://tenor.com/view/hello-there-general-kenobi-gif-18841535.gif" />
 </figure>
 
-Hello, my name is Lucas and I am a Fullstack Developer with over 3 years of experience in the IT industry. Since 2020, I have been working on fullstack projects using Typescript and implementing test-driven development (TDD) techniques, design patterns, software architecture, and cloud system deployment. While most of my repositories are private due to company policies, I do have a few public projects that I work on in my free time. Check them out below:
+Hello, my name is Lucas and I am a Fullstack Developer with over 3 years of experience in the IT industry. Since 2020, I have been working on fullstack projects using Typescript and implementing test-driven development (TDD) techniques, design patterns, software architecture, and cloud system deployment. While most of my repositories are private due to company policies, I do have a few public projects that I work on my free time. Check them out below:
 
 #### 📌<a href="https://github.com/lucas-segundo/nuancias">Nuancias</a>
 A project developed using Next.js (React.js framework) that serves as a publishing platform. I built it using TDD, Jest, Typescript, and Clean Architecture, and the data is sourced from a Graphql API (Strapi CMS).
