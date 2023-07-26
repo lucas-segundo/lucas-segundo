@@ -7,8 +7,8 @@ I am a Fullstack Developer with over 3 years of experience in the IT industry. S
 #### 📌<a href="https://github.com/lucas-segundo/nuancias">Nuancias</a>
 A project developed using Next.js (React.js framework) that serves as a publishing platform. I built it using TDD, Jest, Typescript, and Clean Architecture, and the data is sourced from a Graphql API (Strapi CMS).
  
-#### 📌<a href="https://github.com/lucas-segundo/funny-bank-api">Hero API</a>
-A project developed with Nest.js that is API for hero creation like rpg video game. I am currently working on it, applying TDD, Typescript, and Clean Architecture.
+#### 📌<a href="https://github.com/lucas-segundo/rpg-api">RPG API</a>
+A project developed with Nest.js that is API for class and skills creation for rpg video game. It uses TDD, Typescript, and Clean Architecture.
 
 #### 📌<a href="https://github.com/lucas-segundo/praia-bonita">Praia Bonita</a>
 A project developed using pure HTML and CSS. The main goal of the project was to build a website as a team, to gain hands-on experience with Github tools, and learn how to collaborate. The website is quite simple, serving mainly as a practice in collaboration.
