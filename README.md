@@ -11,7 +11,7 @@ I am a Fullstack Developer with over 3 years of experience in the IT industry. S
 <a href="https://github.com/lucas-segundo/rpg-api">RPG API</a> was developed with Nest.js that is API for class and skills creation for rpg video game. It uses TDD, Typescript, and Clean Architecture.
 
 #### 📌 DND
-<a href="https://github.com/lucas-segundo/nuancias">DND</a> was also developed with Nest.js with the same idea of the RPG API. The difference was the software layers changes and the use of Github Actions for the CI/CD. I made <a href="https://github.com/lucas-segundo/dnd-web">very simple web page</a> with React.js + Vite, just to test the Vite with CI/CD as the project frontend.
+<a href="https://github.com/lucas-segundo/nuancias">DND</a> was also developed with Nest.js with the same idea of the RPG API. The difference was the software layers changes and the use of Github Actions for the CI/CD. I made <a href="https://github.com/lucas-segundo/dnd-web">very simple web page</a> with React.js + Vite, just to test the Vite with CI/CD.
 
 #### 📌 Praia Bonita
 <a href="https://github.com/lucas-segundo/praia-bonita">Praia Bonita</a> was developed using pure HTML and CSS. The main goal of the project was to build a website as a team, to gain hands-on experience with Github tools, and learn how to collaborate. The website is quite simple, serving mainly as a practice in collaboration.
