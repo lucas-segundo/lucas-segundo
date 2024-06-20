@@ -76,11 +76,6 @@ I am a Fullstack Developer with over 3 years of experience in the IT industry. S
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
 
-#### Stats
-<div>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lucas-segundo" />
-</div>
-
 #### Connect with me:
 <div>
 <a href="mailto:lucas.fernandes.app@gmail.com">
