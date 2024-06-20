@@ -5,19 +5,19 @@
 I am a Fullstack Developer with over 3 years of experience in the IT industry. Since 2020, I have been working on fullstack projects using Typescript and implementing test-driven development (TDD) techniques, design patterns, software architecture, and cloud system deployment. Most of my repositories are private due to company policies, I do have a few public projects that I work on my free time. Check them out below:
 
 #### 📌 Character Creation AI
-<a href="https://github.com/lucas-segundo/character-creation-ai">Character Creation AI</a> was developed using Next.js (React.js framework) that uses AI to asks questions to the gamers and, based on theirs responses, create their great RPG character. The default behavior is to help the players create their own Fallout Character with unique SPECIAL. I built it using TDD, Typescript, and Clean Architecture.
+<a href="https://github.com/lucas-segundo/character-creation-ai">Character Creation AI</a> is a Next.js (React.js framework) project that uses AI to help gamers create unique RPG characters based on their responses to a series of questions. The default behavior is designed to create Fallout characters with unique SPECIAL stats. Built using TDD, TypeScript, and Clean Architecture.
 
 #### 📌 Nuancias
-<a href="https://github.com/lucas-segundo/nuancias">Nuancias</a> was developed using Next.js (React.js framework) that serves as a publishing platform. I built it using TDD, Jest, Typescript, and Clean Architecture, and the data is sourced from a <a href="https://github.com/lucas-segundo/nuancias-cms">Nuancias CMS (Strapi CMS)</a>.
+<a href="https://github.com/lucas-segundo/nuancias">Nuancias</a> is a publishing platform developed with Next.js (React.js framework). This project utilizes TDD, Jest, TypeScript, and Clean Architecture, with data sourced from <a href="https://github.com/lucas-segundo/nuancias-cms">Nuancias CMS (Strapi CMS)</a>.
  
 #### 📌 RPG API
-<a href="https://github.com/lucas-segundo/rpg-api">RPG API</a> was developed with Nest.js that is API for class and skills creation for rpg video game. It uses TDD, Typescript, and Clean Architecture.
+<a href="https://github.com/lucas-segundo/rpg-api">RPG API</a> is a Nest.js project that serves as an API for class and skills creation for RPG video games. It employs TDD, TypeScript, and Clean Architecture.
 
 #### 📌 DND
-<a href="https://github.com/lucas-segundo/nuancias">DND</a> was also developed with Nest.js with the same idea of the RPG API. The difference was the software layers changes and the use of Github Actions for the CI/CD. I made <a href="https://github.com/lucas-segundo/dnd-web">very simple web page</a> with React.js + Vite, just to test the Vite with CI/CD.
+<a href="https://github.com/lucas-segundo/nuancias">DND</a> is similar to the RPG API, developed with Nest.js but featuring different software layers and utilizing GitHub Actions for CI/CD. Additionally, I created a <a href="https://github.com/lucas-segundo/dnd-web">very simple web page</a> with React.js + Vite to test Vite with CI/CD.
 
 #### 📌 Praia Bonita
-<a href="https://github.com/lucas-segundo/praia-bonita">Praia Bonita</a> was developed using pure HTML and CSS. The main goal of the project was to build a website as a team, to gain hands-on experience with Github tools, and learn how to collaborate. The website is quite simple, serving mainly as a practice in collaboration.
+<a href="https://github.com/lucas-segundo/praia-bonita">Praia Bonita</a> is a project built using pure HTML and CSS. The main goal was to gain hands-on experience with GitHub tools and learn collaboration in a team setting.
 
 ### Skills
 ##### Analytics
