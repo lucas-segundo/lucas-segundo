@@ -2,7 +2,7 @@
   <img src="https://res.cloudinary.com/dgl62b7rd/image/upload/v1675172293/lucas-gihub-header_ifamvu.png" />
 </figure>
 
-I am a Fullstack Developer with over 3 years of experience in the IT industry. Since 2020, I have been working on fullstack projects using Typescript and implementing test-driven development (TDD) techniques, design patterns, software architecture, and cloud system deployment. Most of my repositories are private due to company policies, I do have a few public projects that I work on my free time. Check them out below:
+I am a Fullstack Developer with over 5 years of experience in the IT industry. Since 2020, I have been working on fullstack projects using Typescript and implementing test-driven development (TDD) techniques, design patterns, software architecture, and cloud system deployment. Most of my repositories are private due to company policies, I do have a few public projects that I work on my free time. Check them out below:
 
 #### 📌 Character Creation AI
 <a href="https://github.com/lucas-segundo/character-creation-ai">Character Creation AI</a> is a Next.js (React.js framework) project that uses AI to help gamers create unique RPG characters based on their responses to a series of questions. The default behavior is designed to create Fallout characters with unique SPECIAL stats. Built using TDD, TypeScript, and Clean Architecture.
