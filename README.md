@@ -82,5 +82,3 @@ I am a Fullstack Developer with over 5 years of experience in the IT industry. S
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </div>
-
-##### I have a dream. 
