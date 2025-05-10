@@ -10,11 +10,8 @@ I am a Fullstack Developer with over 5 years of experience in the IT industry. S
 #### 📌 Nuancias
 <a href="https://github.com/lucas-segundo/nuancias">Nuancias</a> is a publishing platform developed with Next.js (React.js framework). This project utilizes TDD, Jest, TypeScript, and Clean Architecture, with data sourced from <a href="https://github.com/lucas-segundo/nuancias-cms">Nuancias CMS (Strapi CMS)</a>.
  
-#### 📌 RPG API
-<a href="https://github.com/lucas-segundo/rpg-api">RPG API</a> is a Nest.js project that serves as an API for class and skills creation for RPG video games. It employs TDD, TypeScript, and Clean Architecture.
-
-#### 📌 DND
-<a href="https://github.com/lucas-segundo/nuancias">DND</a> is similar to the RPG API, developed with Nest.js but featuring different software layers and utilizing GitHub Actions for CI/CD. Additionally, I created a <a href="https://github.com/lucas-segundo/dnd-web">very simple web page</a> with React.js + Vite to test Vite with CI/CD.
+#### 📌 Main Quest
+<a href="https://github.com/lucas-segundo/main-quest">Main Quest</a> is a Nest.js project that serves as an API for class and skills creation for RPG video games. It employs TDD, TypeScript, and Clean Architecture.
 
 #### 📌 Praia Bonita
 <a href="https://github.com/lucas-segundo/praia-bonita">Praia Bonita</a> is a project built using pure HTML and CSS. The main goal was to gain hands-on experience with GitHub tools and learn collaboration in a team setting.
