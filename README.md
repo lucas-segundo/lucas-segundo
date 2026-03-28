@@ -2,7 +2,7 @@
   <img src="https://res.cloudinary.com/dgl62b7rd/image/upload/v1675172293/lucas-gihub-header_ifamvu.png" />
 </figure>
 
-I am a Fullstack Developer with over 5 years of experience in the IT industry. Since 2020, I have been working on fullstack projects using Typescript and implementing test-driven development (TDD) techniques, design patterns, software architecture, and cloud system deployment. Most of my repositories are private due to company policies, I do have a few public projects that I work on my free time. Check them out below:
+I am a Fullstack Developer with more than 5 years of experience in the IT industry. Since 2020, I have been working on fullstack projects using Typescript and implementing test-driven development (TDD) techniques, design patterns, software architecture, and cloud system deployment. Most of my repositories are private due to company policies, I do have a few public projects that I work on my free time. Check them out below:
 
 #### 📌 Feelings (Working on)
 <a href="https://github.com/lucas-segundo/feelings">Feelings</a> is a Next.js application built with TypeScript that creates a positive community space where users can share kind messages with the world. The platform features sentiment analysis using Google Gemini AI to ensure messages maintain a positive tone, authentication via Google and LinkedIn providers, and a clean hexagonal architecture implementation. Built using TDD practices, PostgreSQL with Drizzle ORM, and modern React patterns with internationalization support.
